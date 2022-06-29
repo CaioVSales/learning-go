@@ -1,0 +1,22 @@
+Você não pode criar uma variável em Go e não utiliza-la
+Essa é uma das formas de deixar o código limpo e correto, sem desperdício de memória.
+
+Você também não pode redeclarar uma variável dentro da mesma função
+
+Go é case sensitive, então a variável "A" é diferente da variável "a"
+
+Sempre coloque acrônimos em uppercase.
+ex: http -> HTTP
+    Url -> URL
+
+###########################################################
+Você pode fazer conversão de tipos entre variáveis.
+ex:
+
+var i float32 = 42
+
+var j int
+j = int(i)
+
+O retorno de i será como tipo in ao invés de tipo float32.
+###########################################################
