@@ -20,3 +20,42 @@ j = int(i)
 
 O retorno de i será como tipo in ao invés de tipo float32.
 ###########################################################
+
+Tipos de variáveis:
+uint = somente inteiros positivos
+int = inteiros positivos e negativos
+float = numeros quebrados positivos e negativos
+string = caracteres
+
+Tipos de operadores:
+-> Aritméticos
+soma: +
+subtração: -
+divisão: /
+modulo: %
+multiplicação: *
+incremento: ++
+decremento: --
+
+-> Relacionais
+diferença: !=
+comparação: ==
+maior: >
+menor: <
+maior igual: >=
+menor igual: <=
+
+-> Lógicos
+and = &&
+or = ||
+nor = ^
+and not = &^
+negação = !=
+
+-> Atribuição
+Atribuição: =
+Soma e Atribuição: +=
+subtração e Atribuição: -=
+multiplicação e Atribuição: *=
+divisão e Atribuição: /=
+modulo e Atribuição: %=	
