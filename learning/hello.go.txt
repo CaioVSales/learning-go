@@ -1,0 +1,5 @@
+Go sempre terá um pacote(package) principal(main) definido com uma função principal (func main).
+
+para rodar o aplicativo é só rodar o comando:
+
+go run "nome.go"
