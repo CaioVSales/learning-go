@@ -1,5 +1,7 @@
 Go sempre terá um pacote(package) principal(main) definido com uma função principal (func main).
 
-para rodar o aplicativo é só rodar o comando:
+a importação do "fmt" nos permite formatar e retornar números, strings etc...
+
+para rodar o código é só rodar o comando:
 
 go run "nome.go"
