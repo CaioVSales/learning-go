@@ -36,6 +36,8 @@ modulo: %
 multiplicação: *
 incremento: ++
 decremento: --
+potência: <<
+divisão de potência: >>
 
 -> Relacionais
 diferença: !=
